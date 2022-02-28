@@ -9,7 +9,7 @@
 */
 
 var oldalIn = document.getElementById("oldal");
-var alfaIn = document.getElementById("oldal");
+var alfaIn = document.getElementById("alfa");
 var szamitGomb = document.getElementById("szamitGomb");
 var eredmenyIn = document.getElementById("eredmeny");
 
